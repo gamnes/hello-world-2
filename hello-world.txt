@@ -1,1 +1,3 @@
 Added file hello-world-2.
+
+Added to stable branch.
