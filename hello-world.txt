@@ -3,3 +3,5 @@ Added file hello-world-2.
 Added to stable branch.
 
 Made change in API in this file.
+
+New change from child itself.
